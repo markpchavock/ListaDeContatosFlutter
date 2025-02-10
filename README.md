@@ -1,6 +1,7 @@
 Aplicativo de  Lista de Contatos
 
-![image](https://github.com/user-attachments/assets/775fe813-ffd0-4c88-93a9-28666e20d50b)
+![image](https://github.com/user-attachments/assets/f8416fbb-ba61-4a65-8e52-1065ed6ba847)
+
 
 Este projeto foi desenvolvido para possilibitar ao usuario cadastrar seus contatos e personaliza-lo com informações e foto.
 
